@@ -7,7 +7,6 @@
 - [homeworks](<homeworks>)
   - [baseball_games.csv](<homeworks/baseball_games.csv>)
   - [module_1.ipynb](<homeworks/module_1.ipynb>)
-  - [Отправить IT-Academy.lnk](<homeworks/Отправить IT-Academy.lnk>)
 - [Вступительные задания](<Вступительные задания>)
   - [Ex1.py](<Вступительные задания/Ex1.py>)
   - [Ex2.py](<Вступительные задания/Ex2.py>)
