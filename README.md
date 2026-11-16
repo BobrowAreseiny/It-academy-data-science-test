@@ -2,24 +2,25 @@
 
 Вступительные и домашние задания по анализу данных на Python.
 
-## Запуск
+## Файлы
 
-Нужен Python 3.10 или новее.
+- [homeworks](<homeworks>)
+  - [baseball_games.csv](<homeworks/baseball_games.csv>)
+  - [module_1.ipynb](<homeworks/module_1.ipynb>)
+- [Вступительные задания](<Вступительные задания>)
+  - [Ex1.py](<Вступительные задания/Ex1.py>)
+  - [Ex2.py](<Вступительные задания/Ex2.py>)
+  - [Ex3.py](<Вступительные задания/Ex3.py>)
+  - [Ex4.py](<Вступительные задания/Ex4.py>)
+  - [Ex5.py](<Вступительные задания/Ex5.py>)
+
+## Запуск
 
 ```bash
 pip install pandas jupyter
 ```
 
-Задания:
-
 ```bash
 python "Вступительные задания/Ex1.py"
-```
-
-Ноутбук:
-
-```bash
 jupyter notebook "homeworks/module_1.ipynb"
 ```
-
-Ноутбук читает `baseball_games.csv` из своей папки, поэтому запускай его из `homeworks` или открывай через Jupyter.
