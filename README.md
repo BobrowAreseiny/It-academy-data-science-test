@@ -7,11 +7,10 @@
 - [homeworks](<homeworks>)
   - [Module 1](<homeworks/Module 1>)
     - [baseball_games.csv](<homeworks/Module 1/baseball_games.csv>)
+    - [module_1_homework.ipynb](<homeworks/Module 1/module_1_homework.ipynb>)
   - [Module 2](<homeworks/Module 2>)
     - [ab_test_ensembles.csv](<homeworks/Module 2/ab_test_ensembles.csv>)
     - [ab_test_inference_solution.ipynb](<homeworks/Module 2/ab_test_inference_solution.ipynb>)
-  - [baseball_games.csv](<homeworks/baseball_games.csv>)
-  - [module_1.ipynb](<homeworks/module_1.ipynb>)
 - [Вступительные задания](<Вступительные задания>)
   - [Ex1.py](<Вступительные задания/Ex1.py>)
   - [Ex2.py](<Вступительные задания/Ex2.py>)
@@ -27,5 +26,5 @@ pip install pandas jupyter
 
 ```bash
 python "Вступительные задания/Ex1.py"
-jupyter notebook "homeworks/module_1.ipynb"
+jupyter notebook "homeworks"
 ```
