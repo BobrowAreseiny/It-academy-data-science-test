@@ -5,6 +5,11 @@
 ## Файлы
 
 - [homeworks](<homeworks>)
+  - [Module 1](<homeworks/Module 1>)
+    - [baseball_games.csv](<homeworks/Module 1/baseball_games.csv>)
+  - [Module 2](<homeworks/Module 2>)
+    - [ab_test_ensembles.csv](<homeworks/Module 2/ab_test_ensembles.csv>)
+    - [ab_test_inference_solution.ipynb](<homeworks/Module 2/ab_test_inference_solution.ipynb>)
   - [baseball_games.csv](<homeworks/baseball_games.csv>)
   - [module_1.ipynb](<homeworks/module_1.ipynb>)
 - [Вступительные задания](<Вступительные задания>)
