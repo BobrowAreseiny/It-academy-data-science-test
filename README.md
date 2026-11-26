@@ -11,6 +11,7 @@
   - [Module 2](<homeworks/Module 2>)
     - [ab_test_ensembles.csv](<homeworks/Module 2/ab_test_ensembles.csv>)
     - [ab_test_inference_solution.ipynb](<homeworks/Module 2/ab_test_inference_solution.ipynb>)
+  - [ab_test_inference_solution.ipynb](<homeworks/ab_test_inference_solution.ipynb>)
 - [Вступительные задания](<Вступительные задания>)
   - [Ex1.py](<Вступительные задания/Ex1.py>)
   - [Ex2.py](<Вступительные задания/Ex2.py>)
